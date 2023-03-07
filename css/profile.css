@@ -1,0 +1,48 @@
+body
+{
+	background-color: #f7f3f3;
+	font-family: sans-serif;
+	background-image: url("../assets/index5.jpg");
+	background-size: cover;
+}
+
+form
+{
+	margin: auto;
+	width: 20%;
+	padding: 20px;
+	border: 1px solid #ccc;
+	background-color: rgb(201, 200, 195);
+	border-radius: 5px;
+	font-size: 18px;
+}
+
+input[type=text], input[type=number]
+{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+input[type=submit]
+{
+	background-color: #090a09;
+	color: rgb(248, 241, 241);
+	padding: 12px 20px;
+	margin: 8px 0;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+input[type=submit]:hover 
+{
+	background-color: #df250d;
+}
+h1
+{
+    text-align: center;
+}

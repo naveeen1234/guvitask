@@ -1,0 +1,30 @@
+h1
+{
+    text-align: center;
+}
+body
+{
+    color: rgb(7, 7, 7);
+    font-family: monospace;
+    width:auto;
+    margin:50px;
+    padding:20px;
+    justify-content: center;
+    align-items: 100vh;
+    background-color: aqua;
+    background-image: url("../assets/index5.jpg");
+    background-size: cover;
+}
+.container
+{
+    padding:90px 200px;
+}
+.container a{
+    text-decoration: none;
+}
+a
+{
+    color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+}
